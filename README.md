@@ -1,2 +1,2 @@
-# my-first-portfolio-project
+# My first portfolio project
 Startup
